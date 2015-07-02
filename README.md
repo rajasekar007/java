@@ -1,4 +1,6 @@
 # java
+
+//
 package rj;
 
 abstract class abstrac {
@@ -19,5 +21,5 @@ abstrac b1=new sub();
 }
 }
 
-
+//
 
